@@ -13,10 +13,21 @@
 [![Made By](https://img.shields.io/badge/Made%20By-Bruno%20Rodrigues-brightgreen)]()
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
+</div>
+
+<p align="center">
+  <a href="#about">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#installation">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#usage">Uso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#built_using">Tecnologias Envolvidas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#authors">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+
 ## Sobre <a name = "about"></a>
 Resolução desenvolvida para o desafio 1 durante o Bootcamp GoStack 10.0, cujo objetivo era simular um CRUD através de uma Array em Node.Js e Express, e aplicar middlewares para validação das rotas HTTP.
 
-### Instalação <a name = "installation"></a>
+## Instalação <a name = "installation"></a>
 
 ```
 git clone https://github.com/Brunight/bootcamp-gostack-desafio-01.git
@@ -36,11 +47,11 @@ yarn dev
 
 - `POST /projects/:id/tasks`: A rota deve receber um campo `title` e armazenar uma nova tarefa no array de tarefas de um projeto específico escolhido através do `id` presente nos parâmetros da rota;
 
-## ⛏️ Tecnologias Envolvidas <a name = "built_using"></a>
+## Tecnologias Envolvidas <a name = "built_using"></a>
 
 - [Express](https://expressjs.com/) - Server Framework
 - [NodeJs](https://nodejs.org/en/) - Backend
 
-## ✍️ Autor <a name = "authors"></a>
+## Autor <a name = "authors"></a>
 
 - [@Brunight](https://github.com/Brunight)
