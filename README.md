@@ -20,7 +20,7 @@
   <a href="#installation">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Uso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#built_using">Tecnologias Envolvidas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#authors">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#authors">Autor</a>
 </p>
 
 
@@ -50,7 +50,7 @@ yarn dev
 ## Tecnologias Envolvidas <a name = "built_using"></a>
 
 - [Express](https://expressjs.com/) - Server Framework
-- [NodeJs](https://nodejs.org/en/) - Backend
+- [Node.Js](https://nodejs.org/en/) - Backend
 
 ## Autor <a name = "authors"></a>
 
